@@ -8,6 +8,14 @@ Chrome driver.
 
 Selenium grid.
 
+URLs for download:
+
+Eclipse: https://www.eclipse.org/downloads/
+
+chromedriver: https://googlechromelabs.github.io/chrome-for-testing/
+
+selenium: https://www.selenium.dev/downloads/
+
 Steps to execute the program:
 
 Step 1. SetUp:
