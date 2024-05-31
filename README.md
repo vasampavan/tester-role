@@ -16,6 +16,8 @@ chromedriver: https://googlechromelabs.github.io/chrome-for-testing/
 
 selenium: https://www.selenium.dev/downloads/
 
+Testing website: https://practicetestautomation.com/practice-test-login/
+
 Steps to execute the program:
 
 Step 1. SetUp:
@@ -29,7 +31,7 @@ Step 1. SetUp:
    3. Set selenium Build Path:
       Open the installed IDE and create a new java project with any name and create a class in the created project.
       Then a new file (class) will be opened in the IDE.
-      In the package Explorer, we can find our all the files related to our project. Right click on the class file to set selenium to only that class or rigth click on src folder to set selenium for all the classes in that folder.
+      In the package Explorer, we can find our all the files related to our project.Right click on src folder to set selenium.
       After right click, there is option named Build Path, select Build path then a configure build path option will be visible.
       ![image](https://github.com/vasampavan/tester-role/assets/162179032/7707e357-1e06-47dd-8794-1db98fdf7143)
 
